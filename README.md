@@ -54,7 +54,8 @@ Here are some ideas to get you started:
   <section class="countries">
     <h2>Disponible dans plusieurs pays</h2>
     <p>
-      Fonctionne en France, Belgique, Luxembourg et Allemagne.
+      Fonctionne en Allemagne, Belgique, France et Luxembourg.
+      En Allemand, Anglais, Français et Italien.
     </p>
   </section>
 
@@ -90,7 +91,6 @@ Here are some ideas to get you started:
         <p>
           Compatible avec les réseaux ferroviaires d'Allemagne, Belgique, France, et 
           Luxembourg.
-          En Allemand, Anglais, Français et Italien.
         </p>
       </div>
 

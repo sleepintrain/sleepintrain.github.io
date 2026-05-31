@@ -88,8 +88,9 @@ Here are some ideas to get you started:
       <div class="feature-card">
         <h3>🌍 Multi-pays</h3>
         <p>
-          Compatible avec les réseaux ferroviaires de France, Belgique,
-          Luxembourg et Allemagne.
+          Compatible avec les réseaux ferroviaires d'Allemagne, Belgique, France, et 
+          Luxembourg.
+          En Allemand, Anglais, Français et Italien.
         </p>
       </div>
 
